@@ -1,6 +1,7 @@
+# Language, Proof and Logic, 2nd Edition EXERCISE
 # Esercizi già fatti di Logica ( 2nd Edition )
 
-Sarebbe bello poter creare una repository con tutti i file di Logica così da aiutare le matricole degli anni prossimi, non ci costa niente
+Sarebbe bello poter creare una repository con tutti i file di Logica non ci costa niente
 
 Vi consiglio di NON inviare questi file perchè Grade Grinder considera come una copiatura file con la stess data di crezione
 
